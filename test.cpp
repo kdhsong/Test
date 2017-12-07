@@ -1,5 +1,11 @@
 #include <stdio.h>
 
 int main() {
-	printf("test");
+	
+
+
+	add(1);
+}
+void add(int a) {
+	printf("%d", a);
 }
